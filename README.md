@@ -6,3 +6,4 @@ Nous allons rendre hommage au créateur du language HTML. Nous le remercions de 
 Merci TIM !
 
 Pour suivre mon projet c'est ici : https://github.com/RekhaLambotte/Tim-Berners-Lee-RL.git
+version web: https://rekhalambotte.github.io/Tim-Berners-Lee-RL/.
