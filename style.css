@@ -1,32 +1,117 @@
 *{
+    font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
     margin:0 ;
     padding:0 ;
-    display: flex;
-    flex-direction: column;
+    letter-spacing: .1rem;
+    line-height: 1.5rem;   
 }
 
 body {      
-    max-width: 900px;
-    color: rgb(250, 136, 6);  
+    max-width: 700px;
+    color: grey;  
     text-align: justify;
     background-color: rgb(235, 235, 235);
-    
-    
-    
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;      
 }
 
 header {
-    border: 4px solid black;
+    background-color: white;
+    justify-content: center;  
+    padding: 30px 0px ;
+    text-align: center;
+    border-radius: 10px;
 }
 
+.fotoTim {
+    border-radius: 50%;
+    border: 4px solid grey;
+    width: 150px;
+    height: 150px; 
+}
+
+header>h1 {
+    color: rgb(206, 94, 90);
+    text-align: center;
+    padding: 30px 0px;
+    font-weight: 900;   
+}
+
+header> p {
+    padding: 30px 40px;
+    text-align: justify;
+}
+
+header> span {
+    background-color: rgb(206, 94, 90);
+    color: white;
+    padding: 15px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+nav {
+    text-align: center;
+    margin: 30px 0px;
+    border-radius: 10px;
+}
+
+ul {
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    background-color: white;
+    align-items: center; 
+    border-radius: 10px;  
+}
+
+li {
+    flex-direction: row;
+    height: 50px;
+    list-style-type: none;
+    margin: 30px ;
+    font-size: 1.5em;
+    color: lightgray;    
+}
+
+li> p{
+    padding-top: 15px;
+}
+
+article {
+    background-color: white;
+    border-radius: 10px;
+}
+
+#title {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+#title> span {
+    background-color: lightgray;
+    border-radius: 10px;
+}
 
 .film {
-    border: 4px solid green;
-    flex-direction: row ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 30px 40px;
+    text-align: justify;  
 }
 
-.foto {
-    border: 4px solid red;
-    
+.foto> img {
+    width: 100px;
+    height: 150px;
+    margin: 10px;
+}
+
+.txtfoto :nth-child(1){
+    font-weight: bold;
+    text-align: justify;
+    padding: 0px 0px 50px 0px;
 }

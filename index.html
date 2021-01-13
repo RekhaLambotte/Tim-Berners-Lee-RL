@@ -6,31 +6,37 @@
         <title>Tim Berners-Lee</title>
         <link rel="stylesheet" type="text/css" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
         <link rel="stylesheet" type="text/css" href="style.css"/>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+        </style>
     </head>
 
     <body>
   
         <header >
-            <img src="image/tim_berners_lee.jpg" title="image tim_berners_lee" /> 
+            
+            <img class="fotoTim" src="image/tim_berners_lee.jpg" title="image tim_berners_lee" /> 
             <h1>Tim Berners-Lee</h1>
             <h2> Inventor of HTML </h2>
             <p> Tim Berners-Lee is the <b>inventor</b> of the Web. In 1989,Tim was working in a compunting services section of CERN when he came up with the concept; at the time he had no idea that if would be implemented on such an anormous <b>scale.</b></p>
+            <span>See for yourself </span>
+        
         </header>
 
         <nav>
-            <p> for yourself </p>
+            
             <ul>
                 <li>
-                    <i class="fab fa-facebook-f"></i><br>
-                    <a href="#">Facebook</a>
+                    <i class="fab fa-facebook-f"></i>
+                    <p>Facebook</p>
                 </li>
                 <li>
-                    <i class="fab fa-linkedin-in"></i><br>
-                    <a href="#">Linkedin</a>
+                    <i class="fab fa-linkedin-in"></i>
+                    <p> Linkedin</p>
                 </li>
                 <li>
-                    <i class="fab fa-twitter"></i><br>
-                    <a href="#">Twitter</a>
+                    <i class="fab fa-twitter"></i>
+                    <p>Twitter</p>
                 </li>
             </ul>
         </nav>
@@ -38,14 +44,16 @@
         <main>
 
             <article>
-                <h2>His Favorite movies</h2>
+                
+                <h2 id="title"> <span>His</span> Favorite movies</h2>
                 
                 <div class="film">
+
                     <div class="foto">
-                        <img src="image/space_odyssey.jpg" title="space_odyssey"/>
+                        <img src="image/space_odyssey.jpg" title="space_odyssey" />
                     </div>
                     <div class="txtfoto">
-                        <h4>2001 - Space Odyssey</h4>
+                        <h3>2001 - Space Odyssey</h3>
                         <p>Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.</p>
                     </div>
                 </div>
@@ -61,9 +69,14 @@
                 </div>
 
                 <div class="film">
-                    <img src="image/alien.jpg" title="alien"/>
-                    <h3>Alien</h3>
-                    <p>The commercial vessel Nostromo receives a distress call from an unexpected planet. After searching for survivors, the crew heads home only tp realize that a deadly bioform has joined them.</p>
+                    <div class="foto">
+                        <img src="image/alien.jpg" title="alien"/>
+                    </div>
+
+                    <div class="txtfoto">
+                        <h3>Alien</h3>
+                        <p>The commercial vessel Nostromo receives a distress call from an unexpected planet. After searching for survivors, the crew heads home only tp realize that a deadly bioform has joined them.</p>
+                    </div>
                 </div>
 
             </article>
