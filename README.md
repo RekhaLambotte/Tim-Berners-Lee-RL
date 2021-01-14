@@ -1,5 +1,5 @@
 # Projet Tim Berners-Lee
-Je vais rendre hommage au créateur du language HTML. Je le remercie de nous permettre de passer des heures derrière notre écran. 
+Je vais rendre hommage au créateur du language HTML à ma façon. Je le remercie de nous permettre de passer des heures derrière notre écran. 
 
 ## Cadre:
 Cet exercice est effectué dans le cadre de ma deuxième semaine de formation au centre de formation BECODE. 
@@ -7,6 +7,7 @@ Nous sommes en janvier 2021.
 
 ## Technos utilisées:
 HTML5
+
 CSS3
 
 ## Auteurs: 
