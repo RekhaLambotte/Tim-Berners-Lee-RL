@@ -16,13 +16,14 @@ Juste moi :)
 Pour cet exercice nous allons dupliquer une page web sur Tim Berners. Le temps accordé est de 1 journée. 
 
 ## But à atteindre :
-![Site web à dupliquer](image/goal-tim-css.jpg)
+![Site web à dupliquer](image/goal-tim-css.png)
 
 ## statut:
 Terminé
 
 ## Projet déployé: 
 lien Github : https://github.com/RekhaLambotte/Tim-Berners-Lee-RL.git
+
 lien web: https://rekhalambotte.github.io/Tim-Berners-Lee-RL/.
 
 ## Remarques:
