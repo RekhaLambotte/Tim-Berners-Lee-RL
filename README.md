@@ -1,5 +1,5 @@
 # Projet Tim Berners-Lee
-Nous allons rendre hommage au créateur du language HTML. Nous le remercions de nous permettre de passer des heures derrière notre écran. 
+Je vais rendre hommage au créateur du language HTML. Je le remercie de nous permettre de passer des heures derrière notre écran. 
 
 ## Cadre:
 Cet exercice est effectué dans le cadre de ma deuxième semaine de formation au centre de formation BECODE. 
@@ -13,18 +13,18 @@ CSS3
 Juste moi :)
 
 ## Instructions:
-Pour cet exercice nous allons dupliquer une page web sur Tim Berners. Le temps accordé est de 1 journée. 
+Pour cet exercice je dois dupliquer une page web sur Tim Berners. Le temps accordé est de 1 journée. 
 
 ## But à atteindre :
 ![Site web à dupliquer](image/goal-tim-css.png)
 
-## statut:
+## Statut:
 Terminé
 
 ## Projet déployé: 
-lien Github : https://github.com/RekhaLambotte/Tim-Berners-Lee-RL.git
+Lien Github : https://github.com/RekhaLambotte/Tim-Berners-Lee-RL.git
 
-lien web: https://rekhalambotte.github.io/Tim-Berners-Lee-RL/.
+Lien web: https://rekhalambotte.github.io/Tim-Berners-Lee-RL/.
 
 ## Remarques:
 Je n'ai pas réussi à mettre le nom de Tim Berners-Lee en bold.
