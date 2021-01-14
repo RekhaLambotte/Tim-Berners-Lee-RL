@@ -27,8 +27,7 @@ Lien Github : https://github.com/RekhaLambotte/Tim-Berners-Lee-RL.git
 Lien web: https://rekhalambotte.github.io/Tim-Berners-Lee-RL/.
 
 ## Remarques:
-Je n'ai pas réussi à mettre le nom de Tim Berners-Lee en bold.
-J'ai dû prendre 2-3h de plus afin de finir le projet.
+J'ai dû prendre 3h de plus afin de finir le projet.
 Cependant je suis relativement satisfait du résultat.
 
 
